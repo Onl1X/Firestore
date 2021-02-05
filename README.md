@@ -1,7 +1,7 @@
 # Firestore
 
 # Introduction
-firestore is an application that allows users to upload and  information to a server.
+Firestore is an application that allows users to upload information to a server.
 You can also see what information is uploaded to the server. 
 In order to use the application 
 user must be authenticated.
