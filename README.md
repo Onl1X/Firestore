@@ -9,3 +9,6 @@ In order to use the application user must be authenticated.
 The app uses firebase authentication/registration and fireStore.
 You need Android version 4.1 and above to use the program.
 The app is written on kotlin.
+
+#Contacts
+Email: giorgi.kutateladze.1@btu.edu.ge
